@@ -22,4 +22,4 @@ public class Curso {
     public void setDuracion(String duracion) { this.duracion = duracion; }
     public Double getCosto() { return costo; }
     public void setCosto(Double costo) { this.costo = costo; }
-}  
+}   
