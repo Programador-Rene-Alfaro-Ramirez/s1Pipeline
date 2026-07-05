@@ -45,7 +45,7 @@
             <artifactId>spring-boot-starter-amqp</artifactId>
         </dependency>
 
-        <!-- LIBRERÍAS DE SEGURIDAD ORACLE-->
+        <!-- LIBRERÍAS DE SEGURIDAD ORACLE CON SU VERSIÓN -->
         <dependency>
             <groupId>com.oracle.database.security</groupId>
             <artifactId>oraclepki</artifactId>
