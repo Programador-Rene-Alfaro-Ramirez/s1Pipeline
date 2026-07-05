@@ -34,4 +34,4 @@ public class RabbitMQConsumer {
         System.out.println("✅ Resumen de compra guardado exitosamente en Oracle Cloud.");
         System.out.println("=========================================");
     }
-}
+} 
